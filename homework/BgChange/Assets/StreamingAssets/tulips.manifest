@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 3509520333
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8f19f4e4baa8c30c1e7512628ef4a925
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4774d6da9b606debf00b5a5d61c4487c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Tulips.jpg
+Dependencies: []

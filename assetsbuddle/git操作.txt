@@ -1,0 +1,21 @@
+【切到自己分支】
+git checkout liyijun1
+
+【修改文件 commit自己的文件】
+git add .
+git commit -m "chang configs 4 conflict"
+
+git checkout develop
+git status
+git pull
+git merge --squash liyijun1
+
+git status
+--如果有冲突 修改文件
+git add .
+git commit -m "chang configs 4 conflict"
+
+--没有有冲突
+--git commit -m "chang configs 4 conflict"
+--如果merge待参数--squash 主干不会看到分支commit信息
+git push

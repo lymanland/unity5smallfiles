@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BgChange", "BgChange.csproj", "{B970EABE-6E43-AFA9-FE0B-B6C07A0052BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BgChange.Editor", "BgChange.Editor.csproj", "{19412550-4A4A-BF2E-876E-005C66563178}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B970EABE-6E43-AFA9-FE0B-B6C07A0052BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B970EABE-6E43-AFA9-FE0B-B6C07A0052BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B970EABE-6E43-AFA9-FE0B-B6C07A0052BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B970EABE-6E43-AFA9-FE0B-B6C07A0052BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19412550-4A4A-BF2E-876E-005C66563178}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19412550-4A4A-BF2E-876E-005C66563178}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19412550-4A4A-BF2E-876E-005C66563178}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19412550-4A4A-BF2E-876E-005C66563178}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

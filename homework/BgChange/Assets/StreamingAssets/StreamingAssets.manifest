@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3323122997
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: desert
+      Dependencies: {}
+    Info_1:
+      Name: lighthouse
+      Dependencies: {}
+    Info_2:
+      Name: jellyfish
+      Dependencies: {}
+    Info_3:
+      Name: penguins
+      Dependencies: {}
+    Info_4:
+      Name: tulips
+      Dependencies: {}
